@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\IConsumables.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Inventory\InventoryUIItem.cs" Line="24" Column="8" />
+      <File FileName="Assets\Scripts\Inventory\Item.cs" Line="28" Column="35" />
+      <File FileName="Assets\Scripts\Inventory\InventoryUIDetails.cs" Line="37" Column="65" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="25" Column="75" />
+      <File FileName="Assets\Scripts\Inventory\ItemDatabase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharacterStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BaseStat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\JSON\Items.json" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Slime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerWeaponController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sword.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ConsumableController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldInteraction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IConsumables.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

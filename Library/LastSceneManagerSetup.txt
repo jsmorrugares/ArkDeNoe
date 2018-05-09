@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/arknoa1_2 inventario terminado , tuto#13 continuacion.unity
+  isLoaded: 1
+  isActive: 1
